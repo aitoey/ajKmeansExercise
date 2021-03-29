@@ -1,0 +1,2 @@
+# ajKmeansExercise
+kmean_question
